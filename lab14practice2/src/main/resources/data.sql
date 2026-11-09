@@ -1,0 +1,5 @@
+insert into course(code, name, description, credits) values('CS101', 'Introduction to Computer Science', 'An introductory course on computer science concepts.', 3);
+insert into course(code, name, description, credits) values('MATH201', 'Calculus I', 'A course on differential and integral calculus.', 4);
+insert into course(code, name, description, credits) values('PHYS301', 'Physics', 'An intermediate course on classical mechanics and electromagnetism.', 4);
+insert into course(code, name, description, credits) values('ENG102', 'English Literature', 'A survey of English literature from the medieval period to the present.', 3);
+insert into course(code, name, description, credits) values('HIST210', 'World History', 'A comprehensive overview of world history from ancient times to the modern era.', 3);

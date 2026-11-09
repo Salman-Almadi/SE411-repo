@@ -1,0 +1,14 @@
+insert into course(code, name, description, credits) values('CS101', 'Introduction to Computer Science', 'An introductory course on computer science concepts.', 3);
+insert into course(code, name, description, credits) values('SE411', 'Software Construction', 'An introductory course on Software Construction concepts.', 3);
+insert into course(code, name, description, credits) values('SE412', 'Software Construction Lab', 'An introductory course on Software Construction Lab concepts.', 1);
+insert into course(code, name, description, credits) values('SE421', 'Software Design', 'An introductory course on Software Design concepts.', 3);
+insert into course(code, name, description, credits) values('CS201', 'Data Structures', 'A course covering fundamental data structures and their implementations.', 3);
+insert into course(code, name, description, credits) values('CS202', 'Discrete Mathematics', 'An overview of logic, proofs, sets, and combinatorics.', 3);
+insert into course(code, name, description, credits) values('CS301', 'Operating Systems', 'Principles and design of operating systems and process management.', 3);
+insert into course(code, name, description, credits) values('CS302', 'Computer Networks', 'Introduction to network architectures, protocols, and communication.', 3);
+insert into course(code, name, description, credits) values('CS303', 'Database Systems', 'Concepts of relational databases, SQL, and transaction processing.', 3);
+insert into course(code, name, description, credits) values('CS401', 'Algorithms', 'Study of algorithm design, analysis, and complexity.', 3);
+insert into course(code, name, description, credits) values('CS402', 'Artificial Intelligence', 'Foundations of AI including search, reasoning, and learning.', 3);
+insert into course(code, name, description, credits) values('SE431', 'Software Testing', 'Techniques for verifying and validating software quality.', 3);
+insert into course(code, name, description, credits) values('SE432', 'Software Requirements', 'Methods for eliciting, analyzing, and documenting requirements.', 3);
+insert into course(code, name, description, credits) values('SE433', 'Human-Computer Interaction', 'Design principles for interactive systems and user experience.', 3);
